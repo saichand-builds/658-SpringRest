@@ -15,6 +15,7 @@ public class MyDBConnection {
 	public void DBMessage() {
 
 		System.out.println("DB Message  Properties file" + DbName + " --" + DBUrl);
+		System.out.println("DB Access");
 
 	}
 }
